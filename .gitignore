@@ -28,5 +28,6 @@ docs/html
 include
 lib
 !src/thuin
-local/
+/.idea/
+
 
